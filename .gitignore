@@ -10,9 +10,12 @@ logs.
 *.log
 
 # other
-lesson_api/less_1/probe.py
+
 __pycache__
 Thumbs.db
+*.sqlite3
+.sqlite3
+*.sqlite3*
 .DS_Store
 probe.py
 
